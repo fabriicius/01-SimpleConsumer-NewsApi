@@ -35,7 +35,8 @@ public class NewApiController : ControllerBase
         if (response.TotalResults == 0)
             return NotFound();
 
-        var resultArtigos = new List<object>();
+        IList<object> resultArtigos = new List<object>();
+
         foreach (var artigos in response.Articles)
         {
             var obj = new
