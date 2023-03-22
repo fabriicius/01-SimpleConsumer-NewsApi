@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K6bq0zTk1fylp3vzZs95tW1eCGIV5AHALGrUKC3BpKM=",
+  "Source": "01-SimpleConsumer-NewsApi",
+  "BasePath": "_content/01-SimpleConsumer-NewsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
